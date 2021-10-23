@@ -1,0 +1,80 @@
+C:\Users\lucas\OneDrive\Desktop\Proyecto\Datos\bin\Debug\Datos.dll
+C:\Users\lucas\OneDrive\Desktop\Proyecto\Datos\bin\Debug\Datos.pdb
+C:\Users\lucas\OneDrive\Desktop\Proyecto\Datos\bin\Debug\Entidades.dll
+C:\Users\lucas\OneDrive\Desktop\Proyecto\Datos\bin\Debug\Entidades.pdb
+C:\Users\lucas\OneDrive\Desktop\Proyecto\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Desktop\Proyecto\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Desktop\Proyecto\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Desktop\Proyecto\Datos\obj\Debug\Datos.dll
+C:\Users\lucas\OneDrive\Desktop\Proyecto\Datos\obj\Debug\Datos.pdb
+C:\Users\Dogo\Desktop\Proyecto\Datos\bin\Debug\Datos.dll
+C:\Users\Dogo\Desktop\Proyecto\Datos\bin\Debug\Datos.pdb
+C:\Users\Dogo\Desktop\Proyecto\Datos\bin\Debug\Entidades.dll
+C:\Users\Dogo\Desktop\Proyecto\Datos\bin\Debug\Entidades.pdb
+C:\Users\Dogo\Desktop\Proyecto\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Dogo\Desktop\Proyecto\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Dogo\Desktop\Proyecto\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Dogo\Desktop\Proyecto\Datos\obj\Debug\Datos.dll
+C:\Users\Dogo\Desktop\Proyecto\Datos\obj\Debug\Datos.pdb
+C:\Users\Matias\Desktop\Proyecto_v4\Proyecto\Datos\bin\Debug\Datos.dll
+C:\Users\Matias\Desktop\Proyecto_v4\Proyecto\Datos\bin\Debug\Datos.pdb
+C:\Users\Matias\Desktop\Proyecto_v4\Proyecto\Datos\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\Proyecto_v4\Proyecto\Datos\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\Proyecto_v4\Proyecto\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Proyecto_v4\Proyecto\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Matias\Desktop\Proyecto_v4\Proyecto\Datos\obj\Debug\Datos.dll
+C:\Users\Matias\Desktop\Proyecto_v4\Proyecto\Datos\obj\Debug\Datos.pdb
+C:\Users\Dogo\Desktop\Proyecto_v5\Proyecto\Datos\bin\Debug\Datos.dll
+C:\Users\Dogo\Desktop\Proyecto_v5\Proyecto\Datos\bin\Debug\Datos.pdb
+C:\Users\Dogo\Desktop\Proyecto_v5\Proyecto\Datos\bin\Debug\Entidades.dll
+C:\Users\Dogo\Desktop\Proyecto_v5\Proyecto\Datos\bin\Debug\Entidades.pdb
+C:\Users\Dogo\Desktop\Proyecto_v5\Proyecto\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Dogo\Desktop\Proyecto_v5\Proyecto\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Dogo\Desktop\Proyecto_v5\Proyecto\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Dogo\Desktop\Proyecto_v5\Proyecto\Datos\obj\Debug\Datos.dll
+C:\Users\Dogo\Desktop\Proyecto_v5\Proyecto\Datos\obj\Debug\Datos.pdb
+C:\Users\lucas\OneDrive\Desktop\proyecto final turnos (versiones)\Proyecto_v6\Proyecto\Datos\bin\Debug\Datos.dll
+C:\Users\lucas\OneDrive\Desktop\proyecto final turnos (versiones)\Proyecto_v6\Proyecto\Datos\bin\Debug\Datos.pdb
+C:\Users\lucas\OneDrive\Desktop\proyecto final turnos (versiones)\Proyecto_v6\Proyecto\Datos\bin\Debug\Entidades.dll
+C:\Users\lucas\OneDrive\Desktop\proyecto final turnos (versiones)\Proyecto_v6\Proyecto\Datos\bin\Debug\Entidades.pdb
+C:\Users\lucas\OneDrive\Desktop\proyecto final turnos (versiones)\Proyecto_v6\Proyecto\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Desktop\proyecto final turnos (versiones)\Proyecto_v6\Proyecto\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Desktop\proyecto final turnos (versiones)\Proyecto_v6\Proyecto\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Desktop\proyecto final turnos (versiones)\Proyecto_v6\Proyecto\Datos\obj\Debug\Datos.dll
+C:\Users\lucas\OneDrive\Desktop\proyecto final turnos (versiones)\Proyecto_v6\Proyecto\Datos\obj\Debug\Datos.pdb
+C:\Users\Dogo\Desktop\Proyecto_v9\Proyecto\Datos\bin\Debug\Datos.dll
+C:\Users\Dogo\Desktop\Proyecto_v9\Proyecto\Datos\bin\Debug\Datos.pdb
+C:\Users\Dogo\Desktop\Proyecto_v9\Proyecto\Datos\bin\Debug\Entidades.dll
+C:\Users\Dogo\Desktop\Proyecto_v9\Proyecto\Datos\bin\Debug\Entidades.pdb
+C:\Users\Dogo\Desktop\Proyecto_v9\Proyecto\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Dogo\Desktop\Proyecto_v9\Proyecto\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Dogo\Desktop\Proyecto_v9\Proyecto\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Dogo\Desktop\Proyecto_v9\Proyecto\Datos\obj\Debug\Datos.dll
+C:\Users\Dogo\Desktop\Proyecto_v9\Proyecto\Datos\obj\Debug\Datos.pdb
+C:\Users\Dogo\Desktop\Proyecto_v11\Proyecto\Datos\bin\Debug\Datos.dll
+C:\Users\Dogo\Desktop\Proyecto_v11\Proyecto\Datos\bin\Debug\Datos.pdb
+C:\Users\Dogo\Desktop\Proyecto_v11\Proyecto\Datos\bin\Debug\Entidades.dll
+C:\Users\Dogo\Desktop\Proyecto_v11\Proyecto\Datos\bin\Debug\Entidades.pdb
+C:\Users\Dogo\Desktop\Proyecto_v11\Proyecto\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Dogo\Desktop\Proyecto_v11\Proyecto\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Dogo\Desktop\Proyecto_v11\Proyecto\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Dogo\Desktop\Proyecto_v11\Proyecto\Datos\obj\Debug\Datos.dll
+C:\Users\Dogo\Desktop\Proyecto_v11\Proyecto\Datos\obj\Debug\Datos.pdb
+C:\Users\Dogo\Desktop\Proyecto_v12\Proyecto\Datos\bin\Debug\Datos.dll
+C:\Users\Dogo\Desktop\Proyecto_v12\Proyecto\Datos\bin\Debug\Datos.pdb
+C:\Users\Dogo\Desktop\Proyecto_v12\Proyecto\Datos\bin\Debug\Entidades.dll
+C:\Users\Dogo\Desktop\Proyecto_v12\Proyecto\Datos\bin\Debug\Entidades.pdb
+C:\Users\Dogo\Desktop\Proyecto_v12\Proyecto\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Dogo\Desktop\Proyecto_v12\Proyecto\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Dogo\Desktop\Proyecto_v12\Proyecto\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Dogo\Desktop\Proyecto_v12\Proyecto\Datos\obj\Debug\Datos.dll
+C:\Users\Dogo\Desktop\Proyecto_v12\Proyecto\Datos\obj\Debug\Datos.pdb
+C:\Users\Dogo\Desktop\Proyecto_v13\Proyecto\Datos\bin\Debug\Datos.dll
+C:\Users\Dogo\Desktop\Proyecto_v13\Proyecto\Datos\bin\Debug\Datos.pdb
+C:\Users\Dogo\Desktop\Proyecto_v13\Proyecto\Datos\bin\Debug\Entidades.dll
+C:\Users\Dogo\Desktop\Proyecto_v13\Proyecto\Datos\bin\Debug\Entidades.pdb
+C:\Users\Dogo\Desktop\Proyecto_v13\Proyecto\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Dogo\Desktop\Proyecto_v13\Proyecto\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Dogo\Desktop\Proyecto_v13\Proyecto\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Dogo\Desktop\Proyecto_v13\Proyecto\Datos\obj\Debug\Datos.dll
+C:\Users\Dogo\Desktop\Proyecto_v13\Proyecto\Datos\obj\Debug\Datos.pdb

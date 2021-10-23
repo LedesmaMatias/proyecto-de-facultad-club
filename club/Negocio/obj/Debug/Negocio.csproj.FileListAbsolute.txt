@@ -1,0 +1,119 @@
+C:\Users\lucas\OneDrive\Desktop\Proyecto\Negocio\bin\Debug\Negocio.dll
+C:\Users\lucas\OneDrive\Desktop\Proyecto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\lucas\OneDrive\Desktop\Proyecto\Negocio\bin\Debug\Datos.dll
+C:\Users\lucas\OneDrive\Desktop\Proyecto\Negocio\bin\Debug\Entidades.dll
+C:\Users\lucas\OneDrive\Desktop\Proyecto\Negocio\bin\Debug\Datos.pdb
+C:\Users\lucas\OneDrive\Desktop\Proyecto\Negocio\bin\Debug\Entidades.pdb
+C:\Users\lucas\OneDrive\Desktop\Proyecto\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Desktop\Proyecto\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Desktop\Proyecto\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Desktop\Proyecto\Negocio\obj\Debug\Negocio.dll
+C:\Users\lucas\OneDrive\Desktop\Proyecto\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Dogo\Desktop\Proyecto\Negocio\bin\Debug\Negocio.dll
+C:\Users\Dogo\Desktop\Proyecto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Dogo\Desktop\Proyecto\Negocio\bin\Debug\Datos.dll
+C:\Users\Dogo\Desktop\Proyecto\Negocio\bin\Debug\Entidades.dll
+C:\Users\Dogo\Desktop\Proyecto\Negocio\bin\Debug\Datos.pdb
+C:\Users\Dogo\Desktop\Proyecto\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Dogo\Desktop\Proyecto\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Dogo\Desktop\Proyecto\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Dogo\Desktop\Proyecto\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Dogo\Desktop\Proyecto\Negocio\obj\Debug\Negocio.dll
+C:\Users\Dogo\Desktop\Proyecto\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Matias\Desktop\Proyecto_v4\Proyecto\Negocio\bin\Debug\Negocio.dll
+C:\Users\Matias\Desktop\Proyecto_v4\Proyecto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Matias\Desktop\Proyecto_v4\Proyecto\Negocio\bin\Debug\Datos.dll
+C:\Users\Matias\Desktop\Proyecto_v4\Proyecto\Negocio\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\Proyecto_v4\Proyecto\Negocio\bin\Debug\Datos.pdb
+C:\Users\Matias\Desktop\Proyecto_v4\Proyecto\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\Proyecto_v4\Proyecto\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Proyecto_v4\Proyecto\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Matias\Desktop\Proyecto_v4\Proyecto\Negocio\obj\Debug\Negocio.dll
+C:\Users\Matias\Desktop\Proyecto_v4\Proyecto\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Dogo\Desktop\Proyecto_v5\Proyecto\Negocio\bin\Debug\Negocio.dll
+C:\Users\Dogo\Desktop\Proyecto_v5\Proyecto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Dogo\Desktop\Proyecto_v5\Proyecto\Negocio\bin\Debug\Datos.dll
+C:\Users\Dogo\Desktop\Proyecto_v5\Proyecto\Negocio\bin\Debug\Entidades.dll
+C:\Users\Dogo\Desktop\Proyecto_v5\Proyecto\Negocio\bin\Debug\Datos.pdb
+C:\Users\Dogo\Desktop\Proyecto_v5\Proyecto\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Dogo\Desktop\Proyecto_v5\Proyecto\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Dogo\Desktop\Proyecto_v5\Proyecto\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Dogo\Desktop\Proyecto_v5\Proyecto\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Dogo\Desktop\Proyecto_v5\Proyecto\Negocio\obj\Debug\Negocio.dll
+C:\Users\Dogo\Desktop\Proyecto_v5\Proyecto\Negocio\obj\Debug\Negocio.pdb
+C:\Users\lucas\OneDrive\Desktop\proyecto final turnos (versiones)\Proyecto_v6\Proyecto\Negocio\bin\Debug\Negocio.dll
+C:\Users\lucas\OneDrive\Desktop\proyecto final turnos (versiones)\Proyecto_v6\Proyecto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\lucas\OneDrive\Desktop\proyecto final turnos (versiones)\Proyecto_v6\Proyecto\Negocio\bin\Debug\Datos.dll
+C:\Users\lucas\OneDrive\Desktop\proyecto final turnos (versiones)\Proyecto_v6\Proyecto\Negocio\bin\Debug\Entidades.dll
+C:\Users\lucas\OneDrive\Desktop\proyecto final turnos (versiones)\Proyecto_v6\Proyecto\Negocio\bin\Debug\Datos.pdb
+C:\Users\lucas\OneDrive\Desktop\proyecto final turnos (versiones)\Proyecto_v6\Proyecto\Negocio\bin\Debug\Entidades.pdb
+C:\Users\lucas\OneDrive\Desktop\proyecto final turnos (versiones)\Proyecto_v6\Proyecto\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Desktop\proyecto final turnos (versiones)\Proyecto_v6\Proyecto\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Desktop\proyecto final turnos (versiones)\Proyecto_v6\Proyecto\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Desktop\proyecto final turnos (versiones)\Proyecto_v6\Proyecto\Negocio\obj\Debug\Negocio.dll
+C:\Users\lucas\OneDrive\Desktop\proyecto final turnos (versiones)\Proyecto_v6\Proyecto\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Matias\Desktop\Proyecto_v8\Proyecto_v6\Proyecto\Negocio\bin\Debug\Negocio.dll
+C:\Users\Matias\Desktop\Proyecto_v8\Proyecto_v6\Proyecto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Matias\Desktop\Proyecto_v8\Proyecto_v6\Proyecto\Negocio\bin\Debug\Datos.dll
+C:\Users\Matias\Desktop\Proyecto_v8\Proyecto_v6\Proyecto\Negocio\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\Proyecto_v8\Proyecto_v6\Proyecto\Negocio\bin\Debug\Datos.pdb
+C:\Users\Matias\Desktop\Proyecto_v8\Proyecto_v6\Proyecto\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\Proyecto_v8\Proyecto_v6\Proyecto\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Proyecto_v8\Proyecto_v6\Proyecto\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Matias\Desktop\Proyecto_v8\Proyecto_v6\Proyecto\Negocio\obj\Debug\Negocio.dll
+C:\Users\Matias\Desktop\Proyecto_v8\Proyecto_v6\Proyecto\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Dogo\Desktop\Proyecto_v9\Proyecto\Negocio\bin\Debug\Negocio.dll
+C:\Users\Dogo\Desktop\Proyecto_v9\Proyecto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Dogo\Desktop\Proyecto_v9\Proyecto\Negocio\bin\Debug\Datos.dll
+C:\Users\Dogo\Desktop\Proyecto_v9\Proyecto\Negocio\bin\Debug\Entidades.dll
+C:\Users\Dogo\Desktop\Proyecto_v9\Proyecto\Negocio\bin\Debug\Datos.pdb
+C:\Users\Dogo\Desktop\Proyecto_v9\Proyecto\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Dogo\Desktop\Proyecto_v9\Proyecto\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Dogo\Desktop\Proyecto_v9\Proyecto\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Dogo\Desktop\Proyecto_v9\Proyecto\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Dogo\Desktop\Proyecto_v9\Proyecto\Negocio\obj\Debug\Negocio.dll
+C:\Users\Dogo\Desktop\Proyecto_v9\Proyecto\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Dogo\Desktop\Proyecto_v11\Proyecto\Negocio\bin\Debug\Negocio.dll
+C:\Users\Dogo\Desktop\Proyecto_v11\Proyecto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Dogo\Desktop\Proyecto_v11\Proyecto\Negocio\bin\Debug\Datos.dll
+C:\Users\Dogo\Desktop\Proyecto_v11\Proyecto\Negocio\bin\Debug\Entidades.dll
+C:\Users\Dogo\Desktop\Proyecto_v11\Proyecto\Negocio\bin\Debug\Datos.pdb
+C:\Users\Dogo\Desktop\Proyecto_v11\Proyecto\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Dogo\Desktop\Proyecto_v11\Proyecto\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Dogo\Desktop\Proyecto_v11\Proyecto\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Dogo\Desktop\Proyecto_v11\Proyecto\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Dogo\Desktop\Proyecto_v11\Proyecto\Negocio\obj\Debug\Negocio.dll
+C:\Users\Dogo\Desktop\Proyecto_v11\Proyecto\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Dogo\Desktop\Proyecto_v12\Proyecto\Negocio\bin\Debug\Negocio.dll
+C:\Users\Dogo\Desktop\Proyecto_v12\Proyecto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Dogo\Desktop\Proyecto_v12\Proyecto\Negocio\bin\Debug\Datos.dll
+C:\Users\Dogo\Desktop\Proyecto_v12\Proyecto\Negocio\bin\Debug\Entidades.dll
+C:\Users\Dogo\Desktop\Proyecto_v12\Proyecto\Negocio\bin\Debug\Datos.pdb
+C:\Users\Dogo\Desktop\Proyecto_v12\Proyecto\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Dogo\Desktop\Proyecto_v12\Proyecto\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Dogo\Desktop\Proyecto_v12\Proyecto\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Dogo\Desktop\Proyecto_v12\Proyecto\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Dogo\Desktop\Proyecto_v12\Proyecto\Negocio\obj\Debug\Negocio.dll
+C:\Users\Dogo\Desktop\Proyecto_v12\Proyecto\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Dogo\Desktop\Proyecto_v13\Proyecto\Negocio\bin\Debug\Negocio.dll
+C:\Users\Dogo\Desktop\Proyecto_v13\Proyecto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Dogo\Desktop\Proyecto_v13\Proyecto\Negocio\bin\Debug\Datos.dll
+C:\Users\Dogo\Desktop\Proyecto_v13\Proyecto\Negocio\bin\Debug\Entidades.dll
+C:\Users\Dogo\Desktop\Proyecto_v13\Proyecto\Negocio\bin\Debug\Datos.pdb
+C:\Users\Dogo\Desktop\Proyecto_v13\Proyecto\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Dogo\Desktop\Proyecto_v13\Proyecto\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Dogo\Desktop\Proyecto_v13\Proyecto\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Dogo\Desktop\Proyecto_v13\Proyecto\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Dogo\Desktop\Proyecto_v13\Proyecto\Negocio\obj\Debug\Negocio.dll
+C:\Users\Dogo\Desktop\Proyecto_v13\Proyecto\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Dogo\Desktop\Proyecto_v14a\Proyecto\Negocio\bin\Debug\Negocio.dll
+C:\Users\Dogo\Desktop\Proyecto_v14a\Proyecto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Dogo\Desktop\Proyecto_v14a\Proyecto\Negocio\bin\Debug\Datos.dll
+C:\Users\Dogo\Desktop\Proyecto_v14a\Proyecto\Negocio\bin\Debug\Entidades.dll
+C:\Users\Dogo\Desktop\Proyecto_v14a\Proyecto\Negocio\bin\Debug\Datos.pdb
+C:\Users\Dogo\Desktop\Proyecto_v14a\Proyecto\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Dogo\Desktop\Proyecto_v14a\Proyecto\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Dogo\Desktop\Proyecto_v14a\Proyecto\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Dogo\Desktop\Proyecto_v14a\Proyecto\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Dogo\Desktop\Proyecto_v14a\Proyecto\Negocio\obj\Debug\Negocio.dll
+C:\Users\Dogo\Desktop\Proyecto_v14a\Proyecto\Negocio\obj\Debug\Negocio.pdb
